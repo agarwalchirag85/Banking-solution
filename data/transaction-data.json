@@ -1,0 +1,37 @@
+{
+    "_id": {
+      "$oid": "60fbf63f6244bb2828b3d1a4"
+    },
+    "accountfrom": 1001,
+    "accountto": 1001,
+    "transferdate": {
+      "$date": "2021-07-24T11:15:11.851Z"
+    },
+    "transfertype": "Deposit",
+    "__v": 0
+  }
+  {
+    "_id": {
+      "$oid": "60fbf63f6244bb2828b3d1a5"
+    },
+    "accountfrom": 1001,
+    "accountto": 1001,
+    "transferdate": {
+      "$date": "2021-07-24T11:15:11.851Z"
+    },
+    "transfertype": "Deposit",
+    "__v": 0
+  }
+  {
+    "_id": {
+      "$oid": "60fbf63f6244bb2828b3d1a6"
+    },
+    "accountfrom": 1001,
+    "accountto": 1001,
+    "transferdate": {
+      "$date": "2021-07-24T11:15:11.851Z"
+    },
+    "transfertype": "Deposit",
+    "__v": 0
+  }
+  
