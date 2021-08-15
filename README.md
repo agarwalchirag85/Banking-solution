@@ -1,6 +1,6 @@
 Banking Problem Solution
 
-This Project contains simple implementaion of bank's system of deposit,
+This Project contains simple implementation of bank's system of deposit,
 withdrawal and transfer.
 
 To run this project you should have node.js and mongodb install
